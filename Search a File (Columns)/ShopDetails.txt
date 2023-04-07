@@ -1,0 +1,5 @@
+Bulbs,24.99
+Mats,59.99
+Torch,15.99
+Geyser,899.99
+Magic_Glove,9.99 
